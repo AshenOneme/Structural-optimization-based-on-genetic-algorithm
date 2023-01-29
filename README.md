@@ -1,5 +1,7 @@
 # Structural-optimization-based-on-genetic-algorithm
-基于遗传算法的人致振动优化
+# 基于遗传算法的人致振动优化 #
+* ### 最优化调谐质量阻尼器(Tuned Mass Damper,TMD)参数
+```Tuned Mass Damper```
 
 <div align=center>
   <img height="180px" src="https://user-images.githubusercontent.com/98397090/215322917-744ecc35-fb79-4c79-a06d-11c333d31674.png" />
