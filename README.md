@@ -27,15 +27,18 @@ def tmd(ratio):
 ```
 
 * 结构模态信息
-
-|MODE NO|FREQUENCY|X-COMPONENT|Y-COMPONENT|Z-COMPONENT|
-|---|---|---|---|---|
+<div align=center>
+    
+|_MODE NO_|__FREQUENCY__|__X-COMPONENT__|__Y-COMPONENT__|__Z-COMPONENT__|
+|:---:|:---:|:---:|:---:|:---:|
 |1|1.758|0.215%|0.017%|82.005%|
 |MODAL MASS| |X:0.479|Y:0.038|Z:182.552|
 |2|2.564|99.513%|0.000%|0.172%|
 |MODAL MASS| |X:221.527|Y:0.000|Z:0.382|
 |3|3.679|0.010%|82.141%|0.024%|
 |MODAL MASS| |X:0.022|Y:182.856|Z:0.054|
+    
+</div>
 
 
 <div align=center>
