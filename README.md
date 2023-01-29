@@ -2,16 +2,16 @@
 # 基于遗传算法的人致振动优化 #
 * ### 最优化调谐质量阻尼器(Tuned Mass Damper,TMD)参数设计
 ```
-#结构实际总质量 233.17t
-#一阶振型参与质量 186.536t
-#一阶质量占比 80%
+#结构实际总质量 222.624t
+#一阶振型参与质量 182.552t
+#一阶质量占比 82%
 import math
-#TMD质量比
-mass_moda=1.6
+#一阶模态质量
+mass_moda=182.552
 #结构阻尼比
 damping_ratio_structure=0.02
 #结构一阶频率
-frequency_structure = 2.41
+frequency_structure = 1.758
 ω=2*math.pi*frequency_structure
 
 def tmd(ratio):
@@ -24,6 +24,7 @@ def tmd(ratio):
     C_TMD=2*mass_total_TMD* ω_TMD*damping_ratio_TMD
     return K_TMD,C_TMD,mass_total_TMD
 ```
+
 
 <div align=center>
   <img height="180px" src="https://user-images.githubusercontent.com/98397090/215322917-744ecc35-fb79-4c79-a06d-11c333d31674.png" />
