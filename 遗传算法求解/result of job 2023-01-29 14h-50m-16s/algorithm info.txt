@@ -1,0 +1,1 @@
+{'Algorithm Name': 'EGA', 'Algorithm MAXGEN': 20, 'Algorithm MAXTIME': None, 'Algorithm MAXEVALS': None, 'Algorithm trappedValue': 0, 'Algorithm maxTrappedCount': 1000}
