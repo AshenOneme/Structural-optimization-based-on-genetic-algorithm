@@ -23,7 +23,17 @@ def tmd(ratio):
     K_TMD=mass_total_TMD*math.pow(ω_TMD,2)
     C_TMD=2*mass_total_TMD* ω_TMD*damping_ratio_TMD
     return K_TMD,C_TMD,mass_total_TMD
+#-->K=109.95013791379839, C=1.8119366579713154, M=0.91276
 ```
+
+|MODE NO|FREQUENCY|X-COMPONENT|Y-COMPONENT|Z-COMPONENT|
+|---|---|---|---|---|
+|1|1.758|0.215%|0.017%|82.005%|
+|MODAL MASS| |X:0.479|Y:0.038|Z:182.552|
+|2|2.564|99.513%|0.000%|0.172%|
+|MODAL MASS| |X:221.527|Y:0.000|Z:0.382|
+|3|3.679|0.010%|82.141%|0.024%|
+|MODAL MASS| |X:0.022|Y:182.856|Z:0.054|
 
 
 <div align=center>
