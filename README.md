@@ -2,6 +2,7 @@
 基于遗传算法的人致振动优化
 
 <div align=center>
+  <img height="180px" src="https://user-images.githubusercontent.com/98397090/215322917-744ecc35-fb79-4c79-a06d-11c333d31674.png" />
   <img height="180px" src="https://user-images.githubusercontent.com/98397090/215321260-7b035c60-78ed-47d2-8f28-d39df2b7decb.svg" />
 </div>
 
