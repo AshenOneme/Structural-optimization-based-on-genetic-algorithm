@@ -75,15 +75,20 @@ Fp=G+G*(Alpha1*np.sin(2*np.pi*1*fp*t)+Alpha2*np.sin(2*np.pi*2*fp*t-np.pi/2)+Alph
 
 * ### GA算法优化结果展示 ###
 <div align=center>
-
 <img height="180px" src="https://user-images.githubusercontent.com/98397090/215423884-1d9e3a94-7ab4-4a6f-82e1-af1736f2a63a.png" />
 <img height="180px" src="https://user-images.githubusercontent.com/98397090/215424145-294a33a9-3688-4ad5-9f25-f192ba299aff.png" />
-
 </div>
-
-
 
 <div align=center>
 (a) 迭代进化20轮
+</div>     
+
+<div align=center>
+<img height="180px" src="https://user-images.githubusercontent.com/98397090/215427499-97338acf-fb0e-4f61-9e76-5678d0f25fdc.png" />
+<img height="180px" src="https://user-images.githubusercontent.com/98397090/215427600-c250ee6d-7ada-4346-b30f-33519d3a41f8.png" />
+</div>
+
+<div align=center>
+(b) 迭代进化35轮
 </div>
 
