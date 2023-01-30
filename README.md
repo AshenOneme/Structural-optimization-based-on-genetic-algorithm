@@ -72,9 +72,8 @@ Fp=G+G*(Alpha1*np.sin(2*np.pi*1*fp*t)+Alpha2*np.sin(2*np.pi*2*fp*t-np.pi/2)+Alph
   <img height="250px" src="https://user-images.githubusercontent.com/98397090/215424980-766b7925-c994-419a-be9d-ca2b093d8a5b.svg" />
 </div>
 
-<div align=center>
-  
-</div>
+</p>
+&emsp;&emsp; 
 
 <div align=center>
 <img height="180px" src="https://user-images.githubusercontent.com/98397090/215423884-1d9e3a94-7ab4-4a6f-82e1-af1736f2a63a.png" />
@@ -84,6 +83,9 @@ Fp=G+G*(Alpha1*np.sin(2*np.pi*1*fp*t)+Alpha2*np.sin(2*np.pi*2*fp*t-np.pi/2)+Alph
 <div align=center>
 (a) 迭代进化20轮
 </div>     
+
+</p>
+&emsp;&emsp; 
 
 <div align=center>
 <img height="180px" src="https://user-images.githubusercontent.com/98397090/215427499-97338acf-fb0e-4f61-9e76-5678d0f25fdc.png" />
