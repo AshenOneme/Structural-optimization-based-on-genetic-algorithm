@@ -26,7 +26,7 @@ def tmd(ratio):
 ---> K=109.95 N/mm, C=1.81 N/(mm/s), M=0.91 ton
 ```
 
-* 结构模态信息
+_结构模态信息_
 <div align=center>
     
 |_MODE NO_|__FREQUENCY__|__X-COMPONENT__|__Y-COMPONENT__|__Z-COMPONENT__|
@@ -39,6 +39,17 @@ def tmd(ratio):
 |MODAL MASS| |X:0.022|Y:182.856|Z:0.054|
     
 </div>
+
+* ### 人行荷载计算
+```
+
+```
+
+<div align=center>
+  <img height="180px" src="https://user-images.githubusercontent.com/98397090/215421119-97556e0e-394a-45e9-b519-b3bdfbc83521.png" />
+  <img height="180px" src="https://user-images.githubusercontent.com/98397090/215420032-ddf91613-c362-4a32-ab27-794237389084.png" />
+</div>
+
 
 
 <div align=center>
