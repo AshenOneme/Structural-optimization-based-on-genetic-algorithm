@@ -68,7 +68,8 @@ Fp=G+G*(Alpha1*np.sin(2*np.pi*1*fp*t)+Alpha2*np.sin(2*np.pi*2*fp*t-np.pi/2)+Alph
 
 
 <div align=center>
-  <img height="180px" src="https://user-images.githubusercontent.com/98397090/215321260-7b035c60-78ed-47d2-8f28-d39df2b7decb.svg" />
+  <img height="250px" src="https://user-images.githubusercontent.com/98397090/215321260-7b035c60-78ed-47d2-8f28-d39df2b7decb.svg" />
+  <img height="250px" src="https://user-images.githubusercontent.com/98397090/215424980-766b7925-c994-419a-be9d-ca2b093d8a5b.svg" />
 </div>
 
 * ### GA算法优化结果展示 ###
