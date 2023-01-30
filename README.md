@@ -3,6 +3,7 @@
 
 <div align=center>
   <img height="250px" src="https://user-images.githubusercontent.com/98397090/215322917-744ecc35-fb79-4c79-a06d-11c333d31674.png" />
+  <img height="250px" src="https://user-images.githubusercontent.com/98397090/215425283-a11178d6-726a-427d-9718-cfc7441e4c19.gif" />
 </div>
 
 * ### 最优化调谐质量阻尼器(Tuned Mass Damper,TMD)参数设计
