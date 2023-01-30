@@ -1,7 +1,7 @@
 # Structural-optimization-based-on-genetic-algorithm
 # 基于遗传算法的人致振动优化 #
 * ### 最优化调谐质量阻尼器(Tuned Mass Damper,TMD)参数设计
-```
+```diff
 #结构实际总质量 222.624t
 #一阶振型参与质量 182.552t
 #一阶质量占比 82%
@@ -23,7 +23,7 @@ def tmd(ratio):
     K_TMD=mass_total_TMD*math.pow(ω_TMD,2)
     C_TMD=2*mass_total_TMD* ω_TMD*damping_ratio_TMD
     return K_TMD,C_TMD,mass_total_TMD
-#-->K=109.95013791379839, C=1.8119366579713154, M=0.91276
+---> K=109.95 N/mm, C=1.81 N/(mm/s), M=0.91 ton
 ```
 
 * 结构模态信息
@@ -48,7 +48,12 @@ def tmd(ratio):
 
 * ### GA算法优化结果展示 ###
 <div align=center>
-  <img height="180px" src="https://user-images.githubusercontent.com/98397090/215321299-c6573987-1c64-4cdd-bfd5-95a27623a227.png" />
-  <img height="180px" src="https://user-images.githubusercontent.com/98397090/215321295-a7a48243-a3d6-42aa-b668-b911d0bfb14f.png" />
+
+<img height="180px" src="https://user-images.githubusercontent.com/98397090/215321299-c6573987-1c64-4cdd-bfd5-95a27623a227.png" />
+<img height="180px" src="https://user-images.githubusercontent.com/98397090/215321295-a7a48243-a3d6-42aa-b668-b911d0bfb14f.png" />
+
+</div>
+<div align=center>
+(a) 迭代进化20轮
 </div>
 
