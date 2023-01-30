@@ -1,5 +1,10 @@
 # Structural-optimization-based-on-genetic-algorithm
 # 基于遗传算法的人致振动优化 #
+
+<div align=center>
+  <img height="250px" src="https://user-images.githubusercontent.com/98397090/215322917-744ecc35-fb79-4c79-a06d-11c333d31674.png" />
+</div>
+
 * ### 最优化调谐质量阻尼器(Tuned Mass Damper,TMD)参数设计
 ```diff
 #结构实际总质量 222.624t
@@ -42,7 +47,17 @@ _结构模态信息_
 
 * ### 人行荷载计算
 ```
-
+#单人移动荷载
+fp=2
+G=750
+Alpha1=0.5
+Alpha2=0.2
+Alpha3=0.1
+f1=1.69
+f2=2.41
+f3=2.99
+t=np.arange(0,3.01,0.01)
+Fp=G+G*(Alpha1*np.sin(2*np.pi*1*fp*t)+Alpha2*np.sin(2*np.pi*2*fp*t-np.pi/2)+Alpha3*np.sin(2*np.pi*3*fp*t-np.pi/2))
 ```
 
 <div align=center>
@@ -53,7 +68,6 @@ _结构模态信息_
 
 
 <div align=center>
-  <img height="180px" src="https://user-images.githubusercontent.com/98397090/215322917-744ecc35-fb79-4c79-a06d-11c333d31674.png" />
   <img height="180px" src="https://user-images.githubusercontent.com/98397090/215321260-7b035c60-78ed-47d2-8f28-d39df2b7decb.svg" />
 </div>
 
