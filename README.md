@@ -60,10 +60,13 @@ _结构模态信息_
 * ### GA算法优化结果展示 ###
 <div align=center>
 
-<img height="180px" src="https://user-images.githubusercontent.com/98397090/215321299-c6573987-1c64-4cdd-bfd5-95a27623a227.png" />
-<img height="180px" src="https://user-images.githubusercontent.com/98397090/215321295-a7a48243-a3d6-42aa-b668-b911d0bfb14f.png" />
+<img height="180px" src="https://user-images.githubusercontent.com/98397090/215423884-1d9e3a94-7ab4-4a6f-82e1-af1736f2a63a.png" />
+<img height="180px" src="https://user-images.githubusercontent.com/98397090/215424145-294a33a9-3688-4ad5-9f25-f192ba299aff.png" />
 
 </div>
+
+
+
 <div align=center>
 (a) 迭代进化20轮
 </div>
